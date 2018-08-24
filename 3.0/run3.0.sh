@@ -307,4 +307,4 @@ echo -e "$INFO$L45\e[49m"
 
 $path/nodebb setup
 $path/nodebb start
-bash /run2.sh
+bash /3.0/3.0/run1-3.0.sh
