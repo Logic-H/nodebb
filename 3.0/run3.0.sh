@@ -66,7 +66,7 @@ ask_user "y/n" "YES_OR_NO" "您需要切换到英文吗？|Do you want to use En
     L15="Database mongoDB"
     L16="Enter the path for nodebb."
     L17="Please do not create folders, we will create automatically for you."
-    L18="We will use apt. We need to make sure that apt is not occupied, and we will update the software."
+    L18="We will use yum. We need to make sure that yum is not occupied, and we will update the software."
     L19="Yum update completed"
     L20="Start installing curl"
     L21="successfully"
@@ -101,7 +101,7 @@ ask_user "y/n" "YES_OR_NO" "您需要切换到英文吗？|Do you want to use En
     L50="Successfully"
 }
 [ "$YES_OR_NO" = "n" ] && {
-	L1="nodebb on Ubuntu快速设置脚本启动"
+	L1="nodebb on CentOS快速设置脚本启动"
 	L2="[重要]请确保yum没有被占用，否则将造成无法安装"
 	L3="开始获取参数"
 	L4="您的服务器在大陆还是海外？这无关紧要，但是影响速度\e[49m"
