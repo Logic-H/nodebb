@@ -16,14 +16,14 @@ Now we support English (Partialy)
 # CentOS食用方法
 
 第一步
-
+```
 git clone https://github.com/Logic-H/nodebb.git /3.0
 
 第二步
 
 bash /3.0/3.0/run3.0.sh
 
-
+```
 第一步
 文件说明
 
