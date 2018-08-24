@@ -15,7 +15,7 @@ Now we support English (Partialy)
 
 Ubuntu使用代码：
 
-wget https://github.com/nidbCN/nodeBBrun/blob/Ubuntu/run-latest.sh && chmod u+x run-3.0.sh && ./run-3.0.sh
+wget https://github.com/Logic-H/nodebb.git/run1.sh && chmod u+x run-3.0.sh && ./run-3.0.sh
 文件说明
 
 run-latest将会是最新版本，老旧版本用run-版本，注意，run-版本最新的与latest是相同的 由于3.0以下版本存在严重错误，暂未上传
