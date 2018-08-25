@@ -14,9 +14,9 @@ Now we support English (Partialy)
 食用方法
 
 # CentOS食用方法
-
-第一步
 ```
+第一步
+
 git clone https://github.com/Logic-H/nodebb.git /3.0
 
 第二步
