@@ -24,7 +24,6 @@ git clone https://github.com/Logic-H/nodebb.git /3.0
 bash /3.0/3.0/run3.0.sh
 
 ```
-第一步
 文件说明
 
 run-latest将会是最新版本，老旧版本用run-版本，注意，run-版本最新的与latest是相同的 由于3.0以下版本存在严重错误，暂未上传
